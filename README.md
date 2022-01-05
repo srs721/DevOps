@@ -40,3 +40,5 @@ CONTAINERIZATION - Nothing but light weight VM's
 
 
 KUBERNETES - It is open source container management tool which automates container deployment , container scaling,descaling and container load balancing.
+
+Azure Active Directory - It is cloud based identity provider and access management service. If my company is using any of the microsoft features like O365, sharepoint, teams. We login to these services using AAD. Also AAD is used to connect to resources on azure.
