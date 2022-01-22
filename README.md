@@ -5,6 +5,7 @@ Disadvantages cannot be used for porjects which are agile and can change, Once a
 We Use agile methodology - Where each project is broken into smaller iterations and each iteration cycle consists of Discover <-> Design <-> Develop. Each iteration should be between a 2-8 weeks gap and each should have working product delivered. 
 Disadvantages is he development team and operations team dont work togther, because developer will only dveleop and depolyment is done manually. Ops team comes back and says there are bugs and dev team should go back and repair it.
 
+DevOps makes the entire process from commiting a change to pushing into prod using some standard process which reduces the time and also easier to roll back/identify probelms.
 Solution for the above is DevOps. It bridges the gap between the Dev and Operations. It is a methodology that both the developer and operations take part during the entire lifecycle of the product from analysiing to maintaince. This happens using various stages and tools used in DevOps. Continuous process of plan,code, bulid, test, deploy, operate and monitor.
 
 Various Stages Involved in DevOps - 
