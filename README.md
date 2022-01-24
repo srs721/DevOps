@@ -42,4 +42,44 @@ CONTAINERIZATION - Nothing but light weight VM's
 
 KUBERNETES - It is open source container management tool which automates container deployment , container scaling,descaling and container load balancing.
 
+AZURE
+
+1. Cloud computing platfrom by Microsoft - It is used to builld, deploy and manage applications through the global network of datacentres.
+2. Azure service is nothing but the services provided by azure that we consume. VM, storage account etc.
+3. Three types of cloud computing are -
+
+   - IaaS(Infrastructure as a service) - IaaS is an alternative to on-premises infrastructure that encompasses storage, networking, servers, and virtualization services. 
+									   - IaaS facilitates businesses’ day-to-day operations with cloud-hosted services that are easily accessible over the internet.(pay-as-you-go options). we have to worry about OS, middle ware, data, applications.(eg VM,storage accounts)
+									   
+   - PaaS(Platform as a service) -   Is a tool that helps developers build hardware, software, and applications. Over the internet. Configuration is already done(OS, middleware). need to take care of only my data and applications.
+                                     applications on it.(eg Facebook)
+   - SaaS(Software as a service) -	 tool that offers users a variety of applications without having to install software on their devices. like 0365. directly consuming the service. Provides business value.
+
+IaaS - like purchasing a car
+PaaS - renting a car
+SaaS - booking ola/uber
+
+CLOUD SERVICES 
+1. Private Cloud - within organisations own infrastructure
+AZURE SERVICES-
+1. Compute services - VM, App services, data factory.
+2. Migration services - to migrate data, apps, storage into cloud. 
+3. Security and Complaince - 
+4. Storage - SQL, My SQL, blob, data lakes
+5. Databse
+6. Networking
+7. Management tools
+
+
+App registration - As a developer I register my app with the my AAD. The AAD stores the apps identity using client id, secret key. Now if I have some data to be accessed using an API.
+We can use the generated client id and secret and a redirect URI to generate access token, which can be used as an outh 2 authorization to our API. 
+If multiple tenants wants to use this App, replication(local instances) of the app are created in respective AAD called service principle.
+Client ID, secret - application object, app registration
+scope,consent,token - service principle
+
 Azure Active Directory - It is cloud based identity provider and access management service. If my company is using any of the microsoft features like O365, sharepoint, teams. We login to these services using AAD. Also AAD is used to connect to resources on azure.
+
+Data bricks
+Service bus
+ARM Templates
+
