@@ -81,5 +81,15 @@ Azure Active Directory - It is cloud based identity provider and access manageme
 
 Data bricks
 Service bus
-ARM Templates
+ARM Templates - Format
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentTemplate.json#",
+  "contentVersion": "",
+  "apiProfile": "",
+  "parameters": {  },
+  "variables": {  },
+  "functions": [  ],
+  "resources": [  ],
+  "outputs": {  }
+}
 
