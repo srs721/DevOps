@@ -44,9 +44,16 @@ KUBERNETES - It is open source container management tool which automates contain
 
 AZURE
 
-1. Cloud computing platfrom by Microsoft - It is used to builld, deploy and manage applications through the global network of datacentres.
-2. Azure service is nothing but the services provided by azure that we consume. VM, storage account etc.
-3. Three types of cloud computing are -
+1. Cloud computing platfrom by Microsoft - the practice of using a network of remote servers hosted on the internet to store, manage, and process data, rather than a local server or a personal computer.
+
+Advantages-
+1. Low maintainence cost
+2. Unlimited storage capacity
+3. Data Security
+
+
+5. Azure service is nothing but the services provided by azure that we consume. VM, storage account etc.
+6. Three types of cloud computing are -
 
    - IaaS(Infrastructure as a service) - IaaS is an alternative to on-premises infrastructure that encompasses storage, networking, servers, and virtualization services. 
 									   - IaaS facilitates businesses’ day-to-day operations with cloud-hosted services that are easily accessible over the internet.(pay-as-you-go options). we have to worry about OS, middle ware, data, applications.(eg VM,storage accounts)
